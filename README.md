@@ -95,16 +95,6 @@ flutter run
 
 ---
 
-## 📸 Ekran Görüntüleri (Screenshots)
-
-| 1. Keşfet / Ana Sayfa | 2. Ürün Detay | 3. Sepet & Kupon | 4. Sipariş Tamamlama |
-| :---: | :---: | :---: | :---: |
-| *(Ekran Görüntüsü 1)* | *(Ekran Görüntüsü 2)* | *(Ekran Görüntüsü 3)* | *(Ekran Görüntüsü 4)* |
-
-*(Ekran görüntüleri emülatör veya fiziksel cihaz çıktısından repoya `screenshots/` klasörü altına eklenmelidir.)*
-
----
-
 ## 📝 Değerlendirme Kriterleri Uyumluluğu
 * [x] **Çalışan Mini Katalog Uygulaması:** Mevcut.
 * [x] **Ana Sayfa - Ürün Listesi - Detay Ekranı:** Tamamlandı.
